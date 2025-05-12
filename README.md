@@ -1,19 +1,8 @@
-# Android_Act8
+## Android Act 8
+- video num 8
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/f0d25f6b-dda1-41a9-982d-39c276a86546)
+![image](https://github.com/user-attachments/assets/e5a2e7a0-4891-4e74-b9c5-34471ca968b9)
+![image](https://github.com/user-attachments/assets/bd400631-3ee6-4e29-9c2f-fcc02b4d49af)
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
